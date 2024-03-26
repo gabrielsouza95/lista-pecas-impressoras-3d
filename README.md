@@ -5,9 +5,9 @@
   - Lorem Ipsum Awesome Links
 ## Placas Ramps
 ### (Placa de interface de potência e controle entre o microcontrolador e os motores, aquecedores e outros atuadores das impressoras)
-- ([Placa ramps tradicional (ramps 1.4)](https://pt.aliexpress.com/i/33026607423.html?gatewayAdapt=glo2bra))
+- ([Placa ramps open source tradicional (ramps 1.4)](https://pt.aliexpress.com/i/33026607423.html?gatewayAdapt=glo2bra))
 ![First test on the car](static%2Framps_1.4.png)
-- ([Placa ramps versão atualizada open source (ramps 1.6)](https://pt.aliexpress.com/i/33026607423.html?gatewayAdapt=glo2bra))
+- ([Placa ramps open source versão atualizada (ramps 1.6)](https://pt.aliexpress.com/i/33026607423.html?gatewayAdapt=glo2bra))
 ![First test on the car](static%2Framps_1.6.png)
 ## Tubo Bowden
 ### (Necessário para as impressoras FDM que utilizam extrusoras fixas no corpo da impressora, assim como originalmente as Moustas)

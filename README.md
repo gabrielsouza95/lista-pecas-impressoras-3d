@@ -1,8 +1,5 @@
 # Peças para as Moustas
 
-## Extrusoras
-- Lorem Ipsum Awesome Links
-  - Lorem Ipsum Awesome Links
 ## Placas Ramps
 ### (Placa de interface de potência e controle entre o microcontrolador e os motores, aquecedores e outros atuadores das impressoras)
 - As placas ramps open source estão no mesmo link, mas basta entrar no link que você primeiro verá a placa 1.4 (placa vermelha) e clicando como sugerido na imagem, você verá o anúncio da 1.6(placa azul)
@@ -18,8 +15,8 @@
 - [Kit Bowden capricorn, que apresenta melhores características de resistência ao calor, melhor anti-aderência para facilitar trocas e manutenções][preco-bowden-capricorn]
 ## Kits Extrusora Direta 
 ### (Upgrade que garante um funcionamento com menos paradas de manutenção, ideal para um ambiente de laboratório para que pessoas externas utilizem)
-- Lorem Ipsum Awesome Links
-  - Lorem Ipsum Awesome Links
+- [Logo na primeira opção][preco-direct-drive-titan] seria o que é mais compatível com as máquinans que temos no lab, com a possibilidade de também [comprar placas][preco-direct-drive-adaptador] para fazermos nossos adatpadores.
+- [Há também outras opções][preco-direct-drive-sprite] no mercado.
 ## Filamentos
 ### (Materia prima utilizada pelas impressoras do tipo FDM )
 - Filamentos de [PLA][preco-filamento-PLA] são bons de se ter em grande quantidade, dado a facilidade de impressão, ainda mais visando levar a fabricação digital a mais pessoas e que mais pessoas possam experimentar sem tantas frustrações
@@ -34,6 +31,9 @@
 [preco-filamento-PLA]: https://www.topink3d.com.br/filamento-para-impressora-3d-pla-1-75mm-1kg-branco
 [preco-filamento-ABS]: https://www.topink3d.com.br/filamento-abs-1-75mm-1kg-vermelho
 [preco-filamento-PETG]: https://www.topink3d.com.br/filamento-petg-1-75mm-1kg-bege
+[preco-direct-drive-titan]: https://pt.aliexpress.com/item/1005005770800902.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17939045214&albag=&trgt=&crea=pt1005005770800902&netw=x&device=c&albpg=&albpd=pt1005005770800902&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fiow8h7hhCLWJqfpxs8ChBgCqmhuh2D-GA4wCBH6MVBmeq-DnLqftsaAlb3EALw_wcB&gclsrc=aw.ds&aff_fcid=8d03ffc29bb748f085718463e983a9c5-1711423747033-06249-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=8d03ffc29bb748f085718463e983a9c5-1711423747033-06249-UneMJZVf&terminal_id=543ecc0786574ec1a9f6ffe12dbe4794&afSmartRedirect=y
+[preco-direct-drive-adaptador]: https://pt.aliexpress.com/item/1005004266974128.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17283575038&albag=&trgt=&crea=pt1005004266974128&netw=x&device=c&albpg=&albpd=pt1005004266974128&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fgpbPZ_2S9cfplw6Vuk9kLWmkWs4QZazmMiBMTxaGBxSD_225ADIjsaAvqsEALw_wcB&gclsrc=aw.ds&aff_fcid=e62ceedc61c944e3ba161f66a6c98ead-1711423765978-09139-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=e62ceedc61c944e3ba161f66a6c98ead-1711423765978-09139-UneMJZVf&terminal_id=543ecc0786574ec1a9f6ffe12dbe4794&afSmartRedirect=y
+[preco-direct-drive-sprite]: https://pt.aliexpress.com/item/1005006381058926.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=19505955113&albag=&trgt=&crea=pt1005006381058926&netw=x&device=c&albpg=&albpd=pt1005006381058926&gad_source=1&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fjpOiqCOPO-lffeNtVjY5YM7UeGprEyE-Zwj1aBCaPGsYuy-lPT7aoaAlaNEALw_wcB&gclsrc=aw.ds&aff_fcid=e4d29e24f4d34820ad43fa9ea30649e6-1711423751720-05100-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=e4d29e24f4d34820ad43fa9ea30649e6-1711423751720-05100-UneMJZVf&terminal_id=543ecc0786574ec1a9f6ffe12dbe4794&afSmartRedirect=y
 [tutorial-creality-marlin]: https://all3dp.com/2/creality-silent-board-ender-3/#google_vignette
 [tutorial-upgrade-ramps-custom]: https://www.reddit.com/r/klippers/comments/ozio1o/a_diy_4x_tmc2226_addon_board_for_silent_upgrades/
 [tutorial-upgrade-ramps-1-4]: https://www.instructables.com/Upgrading-RAMPS-14-With-TMC2130-Stepper-Drivers/

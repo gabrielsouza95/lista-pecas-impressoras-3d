@@ -6,9 +6,9 @@
 ## Placas Ramps
 ### (Placa de interface de potência e controle entre o microcontrolador e os motores, aquecedores e outros atuadores das impressoras)
 - As placas ramps open source estão no mesmo link, mas basta entrar no link que você primeiro verá a placa 1.4 (placa vermelha) e clicando como sugerido na imagem, você verá o anúncio da 1.6(placa azul)
-- [Placa ramps open source tradicional - ramps 1.4][ramps-open-source]
+[Placa ramps open source tradicional - ramps 1.4][ramps-open-source]
 ![First test on the car](static%2Framps_1.4.png)
-- [Placa ramps open source versão atualizada - ramps 1.6][ramps-open-source]
+[Placa ramps open source versão atualizada - ramps 1.6][ramps-open-source]
 ![First test on the car](static%2Framps_1.6.png)
 - Também é possível fazer upgrade pra uma placa [Creality v4.2.7][preco-creality-4-2-7] e rodar Marlin para que seja mais aberta a rodar com o hardware das moustas [como podemos ver aqui como fazer.][tutorial-creality-marlin]
 - É também uma possibilidade [fazer um upgrade de ramps mais customizado.][tutorial-upgrade-ramps-custom]
